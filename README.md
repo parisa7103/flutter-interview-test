@@ -1,24 +1,25 @@
 # Flutter interview test
 
-Nastaran wants to implement her own todo app, she implemented main features of the app but she needs help in order to solve some problems. also she is trying to implement her first unit & ui test which is really stucked on it.
+Nastaran wants to implement her own todo app, She implemented main features of the app but she needs help in order to solve some problems. Also she is trying to implement her first unit & UI test which is really stucked on it.
 
-You have to help her to complete
-
-## Ui Challenge
-She wants to create a dialog like below :
-
-
+You have to help her to complete her mission.
+<br><br>
+## UI Challenge
+#### She wants to create a dialog like right dialog  :
+Help Nastaran get rid of this UI challenge
+<img src="https://github.com/novaday-co/flutter-interview-test/blob/main/images/readme.jpg?raw=true" width="700" /><br>
+<br><br>
 ## Features
-<input type="checkbox"  checked /> Add to todo list
-<input type="checkbox"  /> Remove todo
-<input type="checkbox"  /> Edit todo
-
+- [x] Add to todo list
+- [ ] Remove todo
+- [ ] Edit todo
+<br><br>
 ## Tests
 ##### She wrote some unit tests but she can't make them success.
-
-#### Unit Tests
-<input type="checkbox"  /> User should not add empty text to todo list
-<input type="checkbox"  /> Todo text must not contain any special character
-
-#### Ui tests
-<input type="checkbox"  /> Remove todo item from list
+<br><br>
+## Unit Tests
+- [ ] User should not add empty text to todo list
+- [ ] Todo text must not contain any special character
+<br><br>
+## UI tests
+- [ ] Remove todo item from list
