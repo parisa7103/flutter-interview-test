@@ -10,7 +10,7 @@ Help Nastaran get rid of this UI challenge
 <img src="https://github.com/novaday-co/flutter-interview-test/blob/main/images/readme.jpg?raw=true" width="700" /><br>
 <br><br>
 ## Features
-- [x] Add to todo list
+- [x] Add todo
 - [ ] Remove todo
 - [ ] Edit todo
 <br><br>
@@ -18,8 +18,8 @@ Help Nastaran get rid of this UI challenge
 ##### She wrote some unit tests but she can't make them success.
 <br><br>
 ## Unit Tests
-- [ ] User should not add empty text to todo list
-- [ ] Todo text must not contain any special character
+- [ ] Todo item should not be empty
+- [ ] Todo item should not contain any special character
 <br><br>
 ## UI tests
 - [ ] Remove todo item from list
