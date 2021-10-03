@@ -13,6 +13,7 @@ Help Nastaran get rid of this UI challenge
 - [x] Add todo
 - [ ] Remove todo (swipe to remove)
 - [ ] Edit todo (in-place)
+- [ ] Reorderable todo list
 <br><br>
 ## Tests
 ##### She wrote some unit tests but she can't make them success.
