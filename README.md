@@ -5,7 +5,7 @@ Nastaran wants to implement her own todo app, She implemented main features of t
 You have to help her to complete her mission.
 <br><br>
 ## UI Challenge
-#### She wants to create a dialog like right dialog  :
+#### She wants to create a dialog like right one  :
 Help Nastaran get rid of this UI challenge
 <img src="https://github.com/novaday-co/flutter-interview-test/blob/main/images/readme.jpg?raw=true" width="700" /><br>
 <br><br>
