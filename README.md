@@ -24,3 +24,4 @@ Help Nastaran get rid of this UI challenge
 <br><br>
 ## UI tests
 - [ ] Remove todo item from list
+- [ ] Reorder list items
