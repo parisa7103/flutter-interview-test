@@ -11,8 +11,8 @@ Help Nastaran get rid of this UI challenge
 <br><br>
 ## Features
 - [x] Add todo
-- [ ] Remove todo
-- [ ] Edit todo
+- [ ] Remove todo (swipe to remove)
+- [ ] Edit todo (in-place)
 <br><br>
 ## Tests
 ##### She wrote some unit tests but she can't make them success.
